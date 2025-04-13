@@ -30,3 +30,4 @@
 /Users/nmah2408/RiderProjects/TodoApp/TodoApp.Application/obj/Debug/net8.0/TodoApp.Application.pdb
 /Users/nmah2408/RiderProjects/TodoApp/TodoApp.Application/obj/Debug/net8.0/TodoApp.Application.genruntimeconfig.cache
 /Users/nmah2408/RiderProjects/TodoApp/TodoApp.Application/obj/Debug/net8.0/ref/TodoApp.Application.dll
+/Users/nmah2408/RiderProjects/TodoApp/TodoApp.Application/obj/Debug/net8.0/TodoApp.Application.sourcelink.json
